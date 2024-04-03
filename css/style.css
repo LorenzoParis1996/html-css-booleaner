@@ -35,7 +35,10 @@ thead {
     background-color: rgb(173, 226, 247);
 }
 
-
+.no-border {
+    border-collapse: collapse;
+    border: none;
+}
 
 .container {
     position: relative;
