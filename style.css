@@ -4,6 +4,9 @@ header {
     background-image: url(./img/img-booleaner/img/pattern.png);
 }
 
+.logo {
+    padding-top: 10px;
+}
 
 .grey-font {
     font-weight: bold;
@@ -20,4 +23,29 @@ header {
 
 .font-size-captions {
     font-size: 13px;
+}
+
+
+thead {
+    background-color: rgb(75, 159, 228);
+    color: white;
+}
+
+.row-color {
+    background-color: rgb(173, 226, 247);
+}
+
+
+
+.container {
+    position: relative;
+}
+
+.lorem {
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    position: absolute;
+    top: 8px;
+    left: 16px;
 }
