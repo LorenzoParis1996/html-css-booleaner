@@ -1,0 +1,22 @@
+header {
+    height: 180px;
+    background-color: rgb(75, 159, 228);
+    background-image: url(./img/img-booleaner/img/pattern.png);
+}
+
+.grey-font {
+    font-weight: bold;
+    color: grey;
+}
+
+#booleaner-color {
+    color: rgb(75, 185, 228);
+}
+
+#font-size-data {
+    font-size: 12px;
+}
+
+.font-size-captions {
+    font-size: 13px;
+}
